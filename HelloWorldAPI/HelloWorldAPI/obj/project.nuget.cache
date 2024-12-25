@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IzRa1AHvvEwUyQjQ9vDiD1jekfY2qn4ULe/xf+QpEZiIowYRnJhWoSC+/KqosTCRlxTtyKlPzc1BCqRHokJ0sg==",
+  "dgSpecHash": "jum7PQ4UGqbM7XiBbgB3ryN9w0NGKDQER6R1j7LfQaFjrZclRiGpzUihdmUDXSnXIcDyAMgr0Qnt70j3xxdFPg==",
   "success": true,
-  "projectFilePath": "D:\\DotNetCore\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\HelloWorldAPI.csproj",
+  "projectFilePath": "D:\\DotNetCore\\BTH_SOA\\HelloWorldAPI\\HelloWorldAPI\\HelloWorldAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MINH QUANG\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\MINH QUANG\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
