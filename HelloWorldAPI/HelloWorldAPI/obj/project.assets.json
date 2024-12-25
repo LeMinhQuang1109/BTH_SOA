@@ -4883,11 +4883,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotNetCore\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\HelloWorldAPI.csproj",
+      "projectUniqueName": "D:\\DotNetCore\\BTH_SOA\\HelloWorldAPI\\HelloWorldAPI\\HelloWorldAPI.csproj",
       "projectName": "HelloWorldAPI",
-      "projectPath": "D:\\DotNetCore\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\HelloWorldAPI.csproj",
+      "projectPath": "D:\\DotNetCore\\BTH_SOA\\HelloWorldAPI\\HelloWorldAPI\\HelloWorldAPI.csproj",
       "packagesPath": "C:\\Users\\MINH QUANG\\.nuget\\packages\\",
-      "outputPath": "D:\\DotNetCore\\BTH-SOA-.NET\\HelloWorldAPI\\HelloWorldAPI\\obj\\",
+      "outputPath": "D:\\DotNetCore\\BTH_SOA\\HelloWorldAPI\\HelloWorldAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
