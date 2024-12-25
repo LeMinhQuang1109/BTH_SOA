@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "El3JYmNqFwBDMG4RcFFLXrIUzfTDBiJA4hLXpZsyh63AvwZTuqQFMQ6sf9Z80jAr923Tej761t3t1G7xKegx8g==",
+  "dgSpecHash": "aHxvilmxz5FtKzLM4hLU1Wi6qJbSh6SEEFI0H1lk2ZPBknzuIY438EdekLhhC6k0t6JQzow+LO3HiOij5oY9Zw==",
   "success": true,
-  "projectFilePath": "D:\\DotNetCore\\BTH-SOA-.NET\\ReportingAPI\\ReportingAPI\\ReportingAPI.csproj",
+  "projectFilePath": "D:\\DotNetCore\\BTH_SOA\\ReportingAPI\\ReportingAPI\\ReportingAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MINH QUANG\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\MINH QUANG\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

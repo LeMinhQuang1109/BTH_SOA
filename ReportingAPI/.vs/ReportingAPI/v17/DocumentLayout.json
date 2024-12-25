@@ -41,8 +41,16 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\BTH_SOA\\ReportingAPI\\ReportingAPI\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ReportingAPI\\Database\\AppDbContext.cs",
+              "ToolTip": "D:\\DotNetCore\\BTH_SOA\\ReportingAPI\\ReportingAPI\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "ReportingAPI\\Database\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:45:22.275Z"
             },
             {
               "$type": "Document",
@@ -66,7 +74,8 @@
               "RelativeToolTip": "ReportingAPI\\Controllers\\OrdersReportController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T12:52:40.525Z"
+              "WhenOpened": "2024-12-19T12:52:40.525Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -118,16 +127,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\DotNetCore\\BTH_SOA\\ReportingAPI\\ReportingAPI\\Database\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ReportingAPI\\Database\\AppDbContext.cs",
-              "ToolTip": "D:\\DotNetCore\\BTH_SOA\\ReportingAPI\\ReportingAPI\\Database\\AppDbContext.cs",
-              "RelativeToolTip": "ReportingAPI\\Database\\AppDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAADwvxMAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T12:45:22.275Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

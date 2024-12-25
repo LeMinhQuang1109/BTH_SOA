@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNetCore\\BTH-SOA-.NET\\ReportingAPI\\ReportingAPI\\ReportingAPI.csproj": {}
+    "D:\\DotNetCore\\BTH_SOA\\ReportingAPI\\ReportingAPI\\ReportingAPI.csproj": {}
   },
   "projects": {
-    "D:\\DotNetCore\\BTH-SOA-.NET\\ReportingAPI\\ReportingAPI\\ReportingAPI.csproj": {
+    "D:\\DotNetCore\\BTH_SOA\\ReportingAPI\\ReportingAPI\\ReportingAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNetCore\\BTH-SOA-.NET\\ReportingAPI\\ReportingAPI\\ReportingAPI.csproj",
+        "projectUniqueName": "D:\\DotNetCore\\BTH_SOA\\ReportingAPI\\ReportingAPI\\ReportingAPI.csproj",
         "projectName": "ReportingAPI",
-        "projectPath": "D:\\DotNetCore\\BTH-SOA-.NET\\ReportingAPI\\ReportingAPI\\ReportingAPI.csproj",
+        "projectPath": "D:\\DotNetCore\\BTH_SOA\\ReportingAPI\\ReportingAPI\\ReportingAPI.csproj",
         "packagesPath": "C:\\Users\\MINH QUANG\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNetCore\\BTH-SOA-.NET\\ReportingAPI\\ReportingAPI\\obj\\",
+        "outputPath": "D:\\DotNetCore\\BTH_SOA\\ReportingAPI\\ReportingAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
