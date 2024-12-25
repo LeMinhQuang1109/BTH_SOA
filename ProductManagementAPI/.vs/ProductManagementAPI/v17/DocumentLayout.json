@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNetCore\\BTH_SOA\\ProductManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94BDAD17-535D-4350-9F6C-1A6A8D273C51}|ProductManagementAPI\\ProductManagementAPI.csproj|d:\\dotnetcore\\bth_soa\\productmanagementapi\\productmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94BDAD17-535D-4350-9F6C-1A6A8D273C51}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BDAD17-535D-4350-9F6C-1A6A8D273C51}|ProductManagementAPI\\ProductManagementAPI.csproj|d:\\dotnetcore\\bth_soa\\productmanagementapi\\productmanagementapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BDAD17-535D-4350-9F6C-1A6A8D273C51}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BDAD17-535D-4350-9F6C-1A6A8D273C51}|ProductManagementAPI\\ProductManagementAPI.csproj|d:\\dotnetcore\\bth_soa\\productmanagementapi\\productmanagementapi\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BDAD17-535D-4350-9F6C-1A6A8D273C51}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BDAD17-535D-4350-9F6C-1A6A8D273C51}|ProductManagementAPI\\ProductManagementAPI.csproj|d:\\dotnetcore\\bth_soa\\productmanagementapi\\productmanagementapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BDAD17-535D-4350-9F6C-1A6A8D273C51}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BDAD17-535D-4350-9F6C-1A6A8D273C51}|ProductManagementAPI\\ProductManagementAPI.csproj|d:\\dotnetcore\\bth_soa\\productmanagementapi\\productmanagementapi\\productmanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{94BDAD17-535D-4350-9F6C-1A6A8D273C51}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\productmanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BDAD17-535D-4350-9F6C-1A6A8D273C51}|ProductManagementAPI\\ProductManagementAPI.csproj|d:\\dotnetcore\\bth_soa\\productmanagementapi\\productmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BDAD17-535D-4350-9F6C-1A6A8D273C51}|ProductManagementAPI\\ProductManagementAPI.csproj|solutionrelative:productmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductManagementAPI.http",
+              "DocumentMoniker": "D:\\DotNetCore\\BTH_SOA\\ProductManagementAPI\\ProductManagementAPI\\ProductManagementAPI.http",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\ProductManagementAPI.http",
+              "ToolTip": "D:\\DotNetCore\\BTH_SOA\\ProductManagementAPI\\ProductManagementAPI\\ProductManagementAPI.http",
+              "RelativeToolTip": "ProductManagementAPI\\ProductManagementAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-19T10:06:41.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\BTH_SOA\\ProductManagementAPI\\ProductManagementAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\DotNetCore\\BTH_SOA\\ProductManagementAPI\\ProductManagementAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:04:46.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\BTH_SOA\\ProductManagementAPI\\ProductManagementAPI\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Model\\Product.cs",
+              "ToolTip": "D:\\DotNetCore\\BTH_SOA\\ProductManagementAPI\\ProductManagementAPI\\Model\\Product.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Model\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:04:00.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\BTH_SOA\\ProductManagementAPI\\ProductManagementAPI\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Database\\AppDbContext.cs",
+              "ToolTip": "D:\\DotNetCore\\BTH_SOA\\ProductManagementAPI\\ProductManagementAPI\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Database\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA0wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:03:40.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\BTH_SOA\\ProductManagementAPI\\ProductManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\Program.cs",
+              "ToolTip": "D:\\DotNetCore\\BTH_SOA\\ProductManagementAPI\\ProductManagementAPI\\Program.cs",
+              "RelativeToolTip": "ProductManagementAPI\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:02:42.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNetCore\\BTH_SOA\\ProductManagementAPI\\ProductManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductManagementAPI\\appsettings.json",
+              "ToolTip": "D:\\DotNetCore\\BTH_SOA\\ProductManagementAPI\\ProductManagementAPI\\appsettings.json",
+              "RelativeToolTip": "ProductManagementAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T10:03:21.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
