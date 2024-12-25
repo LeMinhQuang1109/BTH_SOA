@@ -1,40 +1,8 @@
 [
   {
-    "ContainingType": "HelloWorldAPI.Controllers.AuthController",
-    "Method": "Login",
-    "RelativePath": "api/Auth/login",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "user",
-        "Type": "HelloWorldAPI.Model.User",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "HelloWorldAPI.Controllers.AuthController",
-    "Method": "Register",
-    "RelativePath": "api/Auth/register",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "user",
-        "Type": "HelloWorldAPI.Model.User",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
     "ContainingType": "HelloWorldAPI.Controllers.HelloWorldController",
     "Method": "Get",
-    "RelativePath": "api/HelloWorld/auth",
+    "RelativePath": "api/HelloWorld",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

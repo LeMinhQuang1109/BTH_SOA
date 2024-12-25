@@ -1,16 +1,16 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace HelloWorldAPI.Controllers;
-
-[Route("api/[controller]")]
-[ApiController]
-public class HelloWorldController : ControllerBase
+namespace HelloWorldAPI.Controllers
 {
-    [HttpGet("auth")]
-    [Authorize]
-    public IActionResult Get()
+    [Route("api/[controller]")]
+    [ApiController]
+    public class HelloWorldController : ControllerBase
     {
-        return Ok("Hello World");
+        [HttpGet]
+        public IActionResult Get()
+        {
+            return Ok("Hello World");
+        }
     }
 }
