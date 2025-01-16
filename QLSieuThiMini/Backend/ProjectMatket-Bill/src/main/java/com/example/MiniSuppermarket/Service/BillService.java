@@ -1,4 +1,4 @@
-package com.example.fruitmarket.Service;
+package com.example.MiniSuppermarket.Service;
 
 import java.util.ArrayList;
 // import java.util.ArrayList;
@@ -7,11 +7,11 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.example.fruitmarket.DTO.BillRequest;
-import com.example.fruitmarket.Entity.Bill;
-import com.example.fruitmarket.Entity.BillDetail;
-import com.example.fruitmarket.Repository.BillDetailRepository;
-import com.example.fruitmarket.Repository.BillRepository;
+import com.example.MiniSuppermarket.DTO.BillRequest;
+import com.example.MiniSuppermarket.Entity.Bill;
+import com.example.MiniSuppermarket.Entity.BillDetail;
+import com.example.MiniSuppermarket.Repository.BillDetailRepository;
+import com.example.MiniSuppermarket.Repository.BillRepository;
 
 @Service
 public class BillService {

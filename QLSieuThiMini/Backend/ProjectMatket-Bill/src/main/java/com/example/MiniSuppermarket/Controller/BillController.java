@@ -1,14 +1,14 @@
-package com.example.fruitmarket.Controller;
+package com.example.MiniSuppermarket.Controller;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.fruitmarket.DTO.BillRequest;
-import com.example.fruitmarket.Entity.Bill;
-import com.example.fruitmarket.Entity.BillDetail;
-import com.example.fruitmarket.Service.BillService;
+import com.example.MiniSuppermarket.DTO.BillRequest;
+import com.example.MiniSuppermarket.Entity.Bill;
+import com.example.MiniSuppermarket.Entity.BillDetail;
+import com.example.MiniSuppermarket.Service.BillService;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PostMapping;

@@ -1,13 +1,13 @@
-package com.example.fruitmarket;
+package com.example.MiniSuppermarket;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FruitmarketApplication {
+public class MiniSuppermarketApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FruitmarketApplication.class, args);
+		SpringApplication.run(MiniSuppermarketApplication.class, args);
 	}
 
 }

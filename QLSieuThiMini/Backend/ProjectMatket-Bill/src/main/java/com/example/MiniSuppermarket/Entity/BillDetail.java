@@ -1,4 +1,4 @@
-package com.example.fruitmarket.Entity;
+package com.example.MiniSuppermarket.Entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

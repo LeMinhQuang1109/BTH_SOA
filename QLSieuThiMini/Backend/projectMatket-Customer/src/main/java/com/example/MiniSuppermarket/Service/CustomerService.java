@@ -1,4 +1,4 @@
-package com.example.fruitmarket.Service;
+package com.example.MiniSuppermarket.Service;
 
 import java.util.List;
 import java.util.Locale.Category;
@@ -9,8 +9,8 @@ import javax.management.RuntimeErrorException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.example.fruitmarket.Entity.Customer;
-import com.example.fruitmarket.Repository.CustomerRepository;
+import com.example.MiniSuppermarket.Entity.Customer;
+import com.example.MiniSuppermarket.Repository.CustomerRepository;
 
 @Service
 public class CustomerService {

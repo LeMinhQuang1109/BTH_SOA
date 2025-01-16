@@ -1,4 +1,4 @@
-package com.example.fruitmarket.DTO;
+package com.example.MiniSuppermarket.DTO;
 
 public class BillRequest {
     private int billId;

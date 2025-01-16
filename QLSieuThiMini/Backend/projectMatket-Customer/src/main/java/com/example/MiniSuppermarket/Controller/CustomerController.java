@@ -1,4 +1,4 @@
-package com.example.fruitmarket.Controller;
+package com.example.MiniSuppermarket.Controller;
 
 import java.util.HashMap;
 import java.util.List;
@@ -7,8 +7,8 @@ import java.util.Map;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.fruitmarket.Entity.Customer;
-import com.example.fruitmarket.Service.CustomerService;
+import com.example.MiniSuppermarket.Entity.Customer;
+import com.example.MiniSuppermarket.Service.CustomerService;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
